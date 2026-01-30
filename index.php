@@ -23,10 +23,8 @@
             <h3>Interests:</h3>
             <ul>
                 <li class="top"><b>Design:</b> I love creating things that will be used for something important. Take a look at my <a href="/projects">projects</a>.</li>
-                <li><b>Psychology:</b> That's something I've become very interested in the last few years. Studying human behavior and trying to understand what motivates people is fascinating.</li>
-                <li><b>Music:</b> Bought a guitar with my first salary, and since then I play every day. Sometimes I write a few songs.</li>
-                <li><b>Art:</b> I need art to keep me satisfied. When I am not doing things related to the topics above, I am writing poems, screenplays, or creating videos.</li>
             </ul>
         </div>
     </body>
+
 </html>
