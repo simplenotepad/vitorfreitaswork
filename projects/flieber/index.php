@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html id="backtotop">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Projects - Flieber - Vitor Freitas</title>
+        <link rel="stylesheet" type="text/css" href="../../static/style.css">
+    </head>
+    <body>
+        
+        <?php include '../../includes/header.php';?>
+        
+        <div class="content" style="width: 850px;">
+            
+            <h1 class="projects" style="margin-bottom: 30px;">Understanding the product <span class="project-title">Flieber</span></h1>
+            <p class="top">The Flieber product facilitates inventory planning for those who sell directly to the consumer. The software understands the behavior of buyers, synchronizes sales, suppliers and stock. This way, it is possible to make faster and better decisions to maximize profit. </p>
+            <h2 style="margin-top: 4rem;">Processes:</h2>
+            <ul class="processes">
+                <li class="top">Planning</li>
+                <li>Technical adjustments - On Page</li>
+                <li>Creation of the customer journey</li>
+                <li>Content production - Off Page</li>
+            </ul>
+            <h1 class="projects" style="font-size: 45px; margin-top: 6rem; margin-bottom: 1.7rem;">Planning</h1>
+            <p class="top">The priority was to correct all critical errors that the site presented, then adjust the remaining pages.</p>
+            <p class="top">Next, we focused on creating the editorial calendar, keyword study and publishing content on the blog.</p>
+            <h1 class="projects" style="font-size: 45px; margin-top: 5rem; margin-bottom: 1.7rem;">Technical adjustments - On Page</h1>
+            <p class="top">The adjustments were made during the first 3 months of work. The images below show the progress of the site during this period.</p>
+            <p class="top"><b>Results after the first month:</b></p>
+            <img src="../../assets/flieber-on-page-0.jpg" style="width: inherit;" />
+            <p class="top" style="margin-top: 3rem;"><b>Após 3 meses:</b></p>
+            <img src="../../assets/flieber-on-page-1.jpg" style="width: inherit;" />
+            <img src="../../assets/flieber-on-page-2.jpg" style="width: inherit;" />
+            <h1 class="projects" style="font-size: 45px; margin-top: 2rem; margin-bottom: 1.7rem;">Customer journey</h1>
+            <p class="top">In this step we define various search journeys that the end customer can make. With this, we can elaborate better content production strategies for the blog.</p>
+            <h1 class="projects" style="font-size: 45px; margin-top: 5rem; margin-bottom: 1.7rem;">Content production - Off Page</h1>
+            <p class="top">In the case of Flieber, they already had a person responsible for writing the texts... Our job was to define, according to the journey, the best keywords and themes to start production.</p>
+            <p style="margin-bottom: 5rem;">Thank you for reading, don't forget to check the Flieber website: <a target="_blank" href="https://www.flieber.com">flieber.com</a></p>
+            <h3 style="margin-bottom: 15rem;"><a href="/projects">See other projects</a></h3>
+            <p style="margin-bottom: 5rem; font-size: 14px;"><a style="color: #202124;" href="#backtotop">Back to top</a></p>
+        </div>
+    </body>
+</html>    

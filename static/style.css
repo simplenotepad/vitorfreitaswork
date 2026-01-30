@@ -1,0 +1,216 @@
+/*   General*/
+html {
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 3rem 20rem 0 20rem;
+}
+
+html, body {
+    overflow: auto;
+    background-color: #FAFAFA;
+    color: #202124;
+}
+
+header {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: Helvetica;
+    color: #333;
+}
+
+h2 {
+    color: #333;
+}
+
+#title:hover {
+    text-decoration: underline;
+}
+
+span a {
+    text-decoration: none;
+    color: #333;
+}
+
+.projects {
+    font-size: 65px;
+    letter-spacing: -0.015em;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.project-title {
+    color: #7a7a7a;
+    font-size: 18px;
+    letter-spacing: 0;
+    padding: 12px;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu li a{
+    color: #333;
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    text-decoration: underline;
+}
+
+
+
+/*   Content*/
+.content {
+    width: 100%;
+    float: left;
+    margin-top: 4rem;
+}
+
+.content a {
+    color: #06c;
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}
+
+.content h3 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.content p {
+    line-height: 26px;
+}
+
+.content p.top {
+    margin-top: 4px;
+}
+
+.content li.top {
+    margin-top: 4px;
+}
+
+.content p.bottom {
+    margin-bottom: 4px;
+}
+
+.content ul {
+    margin-top: 0;
+}
+
+.content li {
+    margin-bottom: 1.5em;
+    line-height: 26px;
+}
+
+.projects-link {
+    color: #000 !important;
+}
+
+
+.projects-link:hover {
+    text-decoration: none !important;
+}
+
+.projects-card {
+    border: 0.1px solid #bbbbbb7a;
+    padding: 0 30px;
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+    align-items: center;
+    display: flex;
+    height: 250px;
+}
+
+.projects-card:hover {
+    border: 0.1px solid #333;
+}
+
+.projects-card-content {
+    padding: 0 30px;
+    width: 500px;
+}
+
+.projects-card-content h2{
+    margin-bottom: 10px;
+    font-size: 26px;
+    display: contents;
+}
+
+.processes a{
+    color: #000;
+}
+
+
+
+
+
+/*   Smaller screens and mobile*/
+@media screen and (max-width: 1440px) {
+    body {
+        font-size: 16px;
+        margin: 3rem 5rem 0 5rem;
+    }
+    
+    header {
+        font-size: 14px;
+    }
+    
+    .content {
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width: 1155px) {
+    body {
+        margin: 3rem 5rem 0 5rem;
+    }
+    
+    .content {
+        width: 100% !important;
+    }
+    
+    .wireframe-mobile-img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        margin: 2rem;
+    }
+
+    .content {
+        margin-bottom: 2rem;
+    }
+    
+    .projects {
+        font-size: 45px;
+        letter-spacing: 0;
+        flex-direction: column-reverse;
+    }
+    
+    .project-title {
+        font-size: 20px;
+        padding: 20px 0 25px 0;
+    }
+}

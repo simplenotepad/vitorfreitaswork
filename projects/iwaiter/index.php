@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html id="backtotop">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="robots" content="noindex">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Projects - iWaiter - Vitor Freitas</title>
+        <link rel="stylesheet" type="text/css" href="../../static/style.css">
+    </head>
+    <body>
+        
+        <?php include '../../includes/header.php';?>
+        
+        <div class="content" style="width: 850px;">
+            
+            <h1 class="projects" style="margin-bottom: 30px;">How to improve the restaurant experience? <span class="project-title">iWaiter</span></h1>
+            <p class="top">This was a project I did during the UI / UX course, the idea of an app to digitize the menu in restaurants was presented.</p>
+            <p class="top">The proposal was to design the website and app.</p>
+            <h2 style="margin-top: 4rem;">Design Process:</h2>
+            <ul class="processes">
+                <li class="top">Research</li>
+                <li>Style Tile</li>
+                <li>Wireframe</li>
+                <li>Developer Guide</li>
+                <li>Prototype</li>
+            </ul>
+            <h1 class="projects" style="font-size: 40px; margin-top: 6rem; margin-bottom: 1.7rem;">Research</h1>
+            <p class="top">I looked for references in some related sites.</p>
+            <p class="top"><b>Website:</b></p>
+            <img src="../../assets/iwaiter-research-desktop-1.jpg" style="width: inherit; margin-top: 1rem;" />
+            <img src="../../assets/iwaiter-research-desktop-2.jpg" style="width: inherit;" />
+            <img src="../../assets/iwaiter-research-desktop-3.jpg" style="width: inherit;" />
+            <img src="../../assets/iwaiter-research-desktop-4.jpg" style="width: inherit;" />
+            <p class="top" style="margin-top: 2.5rem;"><b>App:</b></p>
+            <img src="../../assets/iwaiter-research-app-1.jpg" style="width: inherit; margin-top: 1rem;" />
+            <img src="../../assets/iwaiter-research-app-2.jpg" style="width: inherit;" />
+            <img src="../../assets/iwaiter-research-app-3.jpg" style="width: inherit;" />
+            <img src="../../assets/iwaiter-research-app-4.jpg" style="width: inherit;" />
+            <h1 class="projects" style="font-size: 40px; margin-top: 5rem; margin-bottom: 1.7rem;">Style Tile</h1>
+            <p class="top">I thought I would bring something more modern reminiscent of restaurant/food. So I went with the Poppins font and red/yellow based colors.</p>
+            <img src="../../assets/iwaiter-styletile-1.jpg" style="width: inherit; margin-top: 1rem;" />
+            <img src="../../assets/iwaiter-styletile-2.jpg" style="width: inherit;" />
+            <h1 class="projects" style="font-size: 40px; margin-top: 5rem; margin-bottom: 1.7rem;">Wireframe</h1>
+            <p class="top"><b>Desktop:</b></p>
+            <img src="../../assets/iwaiter-wireframe-desktop.jpg" style="width: inherit; margin-top: 1rem;" />
+            <p class="top" style="margin-top: 2.5rem;"><b>Mobile:</b></p>
+            <img class="wireframe-mobile-img" src="../../assets/iwaiter-wireframe-mobile.jpg" />
+            <h1 class="projects" style="font-size: 40px; margin-top: 5rem; margin-bottom: 1.7rem;">Developer Guide</h1>
+            <ul>
+                <li><a target="_blank" href="https://vitorfreitas.xyz/assets/developer-guide-desktop.pdf">Website</a></li>
+                <li><a target="_blank" href="https://vitorfreitas.xyz/assets/developer-guide-app.pdf">App</a></li>
+            </ul>
+            
+            <h1 class="projects" style="font-size: 40px; margin-top: 5rem; margin-bottom: 1.7rem;">Prototype</h1>
+            <img src="../../assets/iwaiter-mockup-app.jpg" style="width: inherit; margin-top: 1rem;" />
+            <p class="top" style="margin-top: 2rem; margin-bottom: 1.7rem;">High resolution:</p>
+            <ul style="margin-bottom: 5rem;">
+                <li><a target="_blank" href="https://www.figma.com/file/GU5GzvcQxurD5fX03DTt90/">App - Mockup - Figma</a></li>
+                <li><a target="_blank" href="https://www.figma.com/file/ESwfquY5wxu4MCLKoliPcT/">Mobile - Mockup - Figma</a></li>
+                <li><a target="_blank" href="https://www.figma.com/file/4skbQIkjQiNvJnjFiee5p2/">Desktop - Mockup - Figma</a></li>
+                <li><a target="_blank" href="https://marvelapp.com/prototype/a1979ch/screen/80202388">Link to the prototype - Marvel App</a></li>
+            </ul>
+            <p style="margin-bottom: 5rem;">Thanks for reading.</p>
+            <h3 style="margin-bottom: 15rem;"><a href="/projects">See other projects</a></h3>
+            <p style="margin-bottom: 5rem; font-size: 14px;"><a style="color: #202124;" href="#backtotop">Back to top</a></p>
+        </div>
+    </body>
+</html>    

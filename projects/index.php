@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Projects - Vitor Freitas</title>
+        <link rel="stylesheet" type="text/css" href="../static/style.css">
+    </head>
+    <body>
+        
+        <?php include '../includes/header.php';?>
+        
+        <div class="content">
+            <h1>Most relevant projects:</h1>
+            <a class="projects-link" href="/projects/norun">
+                <div class="projects-card" style="background: url(../assets/norun.jpg) no-repeat; background-position: -50px 1px; color: #202124;">
+                    <div class="projects-card-content">
+                        <h2>Norun </h2><span style="font-size: 15px; color: darkgrey; font-weight: 500;">(Product)</span>
+                        <p class="top">A social network aiming to reduce the time users spend on screens.</p>
+                    </div>
+                </div>
+            </a>
+            <a class="projects-link" href="/projects/briefings">
+                <div class="projects-card" style="background: url(../assets/briefings.jpg) no-repeat; background-position: -50px -24px; color: #202124;">
+                    <div class="projects-card-content">
+                        <h2>Briefings </h2><span style="font-size: 15px; color: darkgrey; font-weight: 500;">(Product)</span>
+                        <p class="top">Site to help agencies send briefings to clients and get better/faster answers.</p>
+                    </div>
+                </div>
+            </a>
+            <a class="projects-link" href="/projects/iwaiter">
+                <div class="projects-card" style="background: url(../assets/iwaiter.jpg) no-repeat; background-position: -50px 1px; color: #202124;">
+                    <div class="projects-card-content">
+                        <h2>iWaiter </h2><span style="font-size: 15px; color: darkgrey; font-weight: 500;">(Design)</span>
+                        <p class="top">An app to digitize the menu in restaurants, creating better experiences for owners and customers.</p>
+                    </div>
+                </div>   
+            </a>
+            <a class="projects-link" href="/projects/flieber">
+                <div class="projects-card" style="background: url(../assets/flieber.jpg) no-repeat; background-position: -50px -25px; color: #202124;">
+                    <div class="projects-card-content">
+                        <h2>Flieber </h2><span style="font-size: 15px; color: darkgrey; font-weight: 500;">(SEO)</span>
+                        <p class="top">E-commerce software focused on inventory optimization.</p>
+                    </div>
+                </div>   
+            </a>
+            <!--
+            <a class="projects-link" href="/projects/nsa">
+                <div class="projects-card" style="background: url(../assets/nsa.jpg) no-repeat; background-position: -50px -25px; color: #202124;">
+                    <div class="projects-card-content">
+                        <h2>Residence NSA </h2><span style="font-size: 15px; color: darkgrey; font-weight: 500;">(Marketing)</span>
+                        <p class="top">Real Estate - Land lots and houses.</p>
+                    </div>
+                </div>   
+            </a>
+            -->
+        </div>
+    </body>
+</html>    
